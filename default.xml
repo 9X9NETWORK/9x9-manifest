@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin" fetch="https://fliprtv:Flipr9x9@bitbucket.org"/>
+  <default revision="refs/heads/master" remote="origin"/>
+
+  <project name="9x9group/web-5.0.git" path="web"/>
+  <project name="9x9group/9x9_cms.git" path="cms"/>
+  <project name="9x9group/deploytools.git" path="deploytools"/>
+  <project name="9x9group/nncloudtv.git" path="nncloudtv"/>
+  <project name="9x9group/nnqueue.git" path="nnqueue"/>
+  <project name="9x9group/ytcrawler.git" path="ytcrawler"/>
+
+</manifest>
